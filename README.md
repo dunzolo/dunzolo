@@ -2,7 +2,7 @@
 
 ## 📝 Languages & Stats
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="200" alt="dunzolo" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="280" alt="dunzolo" />
     <img src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" width="280" alt="dunzolo" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunzolo&" width="280" alt="dunzolo"/>
 </p>
