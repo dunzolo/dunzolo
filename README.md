@@ -2,9 +2,9 @@
 
 ## 📝 Languages & Stats
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="250" alt="dunzolo" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" width="280" alt="dunzolo" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunzolo&" width="280" alt="dunzolo"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="225" alt="dunzolo" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" width="296" alt="dunzolo" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunzolo&" width="315" alt="dunzolo"/>
 </p>
 
 <p></p>
