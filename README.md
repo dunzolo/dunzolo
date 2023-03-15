@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, Welcome on my GitHub profile!</h1>
+
+## 📝 Languages & Stats
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" height="150" alt="dunzolo" />
     <img src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" height="150" alt="dunzolo" />
