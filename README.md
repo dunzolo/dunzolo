@@ -17,9 +17,6 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-&nbsp; Portfolio &nbsp; | &nbsp; Linkedin &nbsp; | 
---- | --- | 
-&nbsp; <a target="_blank" href = "https://bit.ly/beatrice-portfolio"><img src="https://user-images.githubusercontent.com/89645358/167140276-c0bba464-79de-4811-9ff2-763f8a6b815f.png" width="60px"/></a> &nbsp; | &nbsp; <a target="_blank" href = "https://www.linkedin.com/in/beatrice-marin/"><img src="https://user-images.githubusercontent.com/89645358/167140246-15634659-fbe4-401f-b48f-e2a961020be3.png" width="60px"/></a> &nbsp; | 
 ## 📝 Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="225" alt="dunzolo" />
