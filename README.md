@@ -1,34 +1,8 @@
-<style>
-tr, td{
-    border: 1px solid black;
-}
-.row{
-    display:flex;
-    justify-content: space-between;
-}
-.item{
-    display:flex;
-    flex-direction:column;
-    width:25%;
-}
-
-.item a img{
-    width:100%;
-}
-
-@media screen and (max-width: 600px) {
-  .row {
-    background-color: olive;
-    color: white;
-  }
-}
-</style>
-
 <h1 align="center">👋 Hi, Welcome on my GitHub profile!</h1>
 
 ## Skills 
 <h3 align="center">Frontend Development</h3>
-<div align="center" class="row">
+<div align="center" style="display:flex">
     <div class="item">
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"/></a>
         <p>CSS</p>
