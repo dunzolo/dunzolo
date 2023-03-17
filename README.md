@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, Welcome on my GitHub profile!</h1>
 
-## Skills 
+## 💻 Skills 
 <table align="center"><tr><td valign="top" width="350">
 <h3 align="center">Backend Development</h3>
 <p align="center"> 
