@@ -15,8 +15,6 @@
 - 📖 Other about me: i'm a football coach with UEFA Grassroots C Licence
 
 <br />
-<br />
-<br />
 
 ## 💻 Skills 
 <table align="center"><tr><td valign="top" width="350">
