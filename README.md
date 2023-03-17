@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, Welcome on my GitHub profile!</h1>
 
 ## Skills 
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 <h3 align="center">Backend Development</h3>
 <p align="center"> <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a> <a href="https://socket.io/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/330px-Socket-io.svg.png" alt="socket" width="40" height="40"/> </a> </p>
 
