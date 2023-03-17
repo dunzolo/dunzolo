@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="img/header.png">
+</p>
 <h1 align="center">Welcome on my GitHub profile!</h1>
 
 <h3>Hi there! 👋</h3> 
