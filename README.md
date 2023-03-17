@@ -2,7 +2,7 @@
 	<img src="pics/header.png">
 </p>
 <h1 align="center">Welcome on my GitHub profile!</h1>
-<img align='right' src="pics/laptop_wave.png" width="30%">
+<img align='right' src="pics/laptop_wave.png" width="30%" max-width="100%">
 <h3>Hi there! 👋</h3> 
 <p>I'm <strong>Davide</strong>, a junior full stack web developer</p>
 
