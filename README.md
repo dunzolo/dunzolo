@@ -2,7 +2,7 @@
 	<img src="pics/header.png">
 </p>
 <h1 align="center">Welcome on my GitHub profile!</h1>
-
+<img align='right' src="pics/laptop_wave.png" width="30%">
 <h3>Hi there! 👋</h3> 
 <p>I'm <strong>Davide</strong>, a junior full stack web developer</p>
 
@@ -13,6 +13,10 @@
 - 🔭 Future Goals: learn more technologies to grow more and more
 
 - 📖 Other about me: i'm a football coach with UEFA Grassroots C Licence
+
+<br />
+<br />
+<br />
 
 ## 💻 Skills 
 <table align="center"><tr><td valign="top" width="350">
