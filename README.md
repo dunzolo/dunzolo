@@ -6,7 +6,7 @@
 <h3>Hi there! 👋</h3> 
 <p>I'm <strong>Davide</strong>, a junior full stack web developer</p>
 
-[//]: - 🌱 I’m currently working on web development technologies
+<!-- - 🌱 I’m currently working on web development technologies -->
 
 - 🌱 I’m currently studing on web development technologies
 
