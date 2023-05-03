@@ -6,7 +6,9 @@
 <h3>Hi there! 👋</h3> 
 <p>I'm <strong>Davide</strong>, a junior full stack web developer</p>
 
-- 🌱 I’m currently working on web development technologies
+[//]: - 🌱 I’m currently working on web development technologies
+
+- 🌱 I’m currently studing on web development technologies
 
 - 🎯 Goals 2023: I did a course with [Boolean Careers](https://boolean.careers/)
 
