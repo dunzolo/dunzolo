@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Java online with [Experis Academy](https://www.experisacademy.it/)
 
-- 🎯 Goals 2023: I did a course with [Boolean Careers](https://boolean.careers/)
+- 🎯 Goals 2023: I did a course with [Boolean Careers](https://boolean.careers/) and this is my [credential](https://www.credential.net/8ad6f264-1529-47f0-941b-cca2c4099af5#gs.wg8vw8)
 
 - 🔭 Future Goals: learn more technologies to grow more and more
 
