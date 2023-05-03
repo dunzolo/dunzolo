@@ -8,7 +8,7 @@
 
 <!-- - 🌱 I’m currently working on web development technologies -->
 
-- 🌱 I’m currently studing on web development technologies
+- 🌱 I’m currently learning Java online with [Experis Academy](https://www.experisacademy.it/)
 
 - 🎯 Goals 2023: I did a course with [Boolean Careers](https://boolean.careers/)
 
