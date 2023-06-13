@@ -23,7 +23,8 @@
 <h3 align="center">Backend Development</h3>
 <p align="center"> 
 <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
+<a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"</a>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
