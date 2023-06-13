@@ -25,7 +25,7 @@
 <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
 <a href="https://docs.oracle.com/en/java/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"</a>
-![eclipse-11](https://github.com/dunzolo/dunzolo/assets/112269790/dcd07545-c9fe-4bb4-88c0-ace4d90b14b8)
+<a href="https://docs.oracle.com/en/java/"><img src="https://github.com/dunzolo/dunzolo/assets/112269790/dcd07545-c9fe-4bb4-88c0-ace4d90b14b8" width="40" height="40"</a>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
