@@ -24,12 +24,13 @@
 <p align="center"> 
 <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"</a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"</a>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /></a>
+<a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"</a>
 </p>
 
 <h3 align="center">IDEs/Editor & Testing</h3>
