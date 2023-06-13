@@ -25,7 +25,7 @@
 <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
 <a href="https://docs.oracle.com/en/java/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"</a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://github.com/dunzolo/dunzolo/assets/112269790/dcd07545-c9fe-4bb4-88c0-ace4d90b14b8" width="40" height="40"</a>
+
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -39,7 +39,8 @@
 <a> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> 
 <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="40" height="40" alt="Vite" /></a></p>
+<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="40" height="40" alt="Vite" /></a>
+<a href="https://eclipseide.org/"><img src="https://user-images.githubusercontent.com/112269790/245487049-6030ba4c-db21-41a5-8c4a-75dd06e1bf30.svg" width="40" height="40"</a></p>
   
 </td><td valign="top" width="350">
 <h3 align="center">Frontend Development</h3>
