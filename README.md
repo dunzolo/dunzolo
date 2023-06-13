@@ -41,7 +41,7 @@
 <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="40" height="40" alt="Vite" /></a>
 <a href="https://eclipseide.org/"><img src="https://user-images.githubusercontent.com/112269790/245487049-6030ba4c-db21-41a5-8c4a-75dd06e1bf30.svg" width="40" height="40"</a>
-<a href="https://eclipseide.org/"><img src="https://github.com/dunzolo/dunzolo/assets/112269790/81f1069b-708b-4b16-a4c5-c4691e7eede7.svg" width="40" height="40"</a></p>
+<a href="https://eclipseide.org/"><img src="https://user-images.githubusercontent.com/112269790/245492831-81f1069b-708b-4b16-a4c5-c4691e7eede7.png" width="40" height="40"</a></p>
 
 </td><td valign="top" width="350">
 <h3 align="center">Frontend Development</h3>
@@ -81,4 +81,3 @@
 
 <p align="center"> 🙏 Thanks for visiting my account 🙏</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dunzolo&label=Profile%20views&color=0e75b6&style=flat" alt="dunzolo" /></p>
-<img src="https://github.com/dunzolo/dunzolo/assets/112269790/81f1069b-708b-4b16-a4c5-c4691e7eede7"/>
