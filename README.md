@@ -33,10 +33,10 @@
 
 <h3 align="center">IDEs/Editor & Testing</h3>
 <p align="center"> 
-<a href="https://code.visualstudio.com/" > <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="40" height="40"/> </a> 
+<a> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> 
 <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="40" height="40" alt="Vite" /></a></p>
   
 </td><td valign="top" width="350">
 <h3 align="center">Frontend Development</h3>
@@ -47,11 +47,11 @@
 <a href="https://sass-lang.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" /></a>
   
-<h3 align="center">Other</h3>
+<h3 align="center">Other & DB</h3>
 <p align="center"> 
 <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" /></a>
-<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="40" height="40" alt="Vite" /></a>
+<a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Grafichs</h3>
