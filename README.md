@@ -23,8 +23,9 @@
 <h3 align="center">Backend Development</h3>
 <p align="center"> 
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
-<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel"/></a>
 <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring"/></a>
+<!-- <a href="https://https://www.yiiframework.com/"><img src="https://skillicons.dev/icons?i=yii"/></a> -->
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel"/></a>
 
 
 <h3 align="center">Programming Languages</h3>
@@ -36,11 +37,11 @@
 
 <h3 align="center">IDEs/Editor & Testing</h3>
 <p align="center"> 
-<a> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> 
-<a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="40" height="40" alt="Vite" /></a>
-<a href="https://eclipseide.org/"><img src="https://user-images.githubusercontent.com/112269790/245487049-6030ba4c-db21-41a5-8c4a-75dd06e1bf30.svg" width="40" height="40"</a>
+<a><img src="https://skillicons.dev/icons?i=atom"/></a> 
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"/></a> 
+<a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman"/></a> 
+<a href="https://www.phpmyadmin.net/"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="40" height="40" alt="Vite" /></a>
+<a href="https://eclipseide.org/"><img src="https://skillicons.dev/icons?i=eclipse"/></a>
 <a href="https://eclipseide.org/"><img src="https://user-images.githubusercontent.com/112269790/245492831-81f1069b-708b-4b16-a4c5-c4691e7eede7.png" width="40" height="40"</a></p>
 
 </td><td valign="top" width="350">
