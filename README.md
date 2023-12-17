@@ -19,7 +19,7 @@
 <br />
 
 ## 💻 Skills 
-<table align="center">
+<!--<table align="center">
   <thead>
     <tr valign="top">
       <th colspan="4"><span>LANGUAGES</span></th>
@@ -27,23 +27,25 @@
   </thead>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>Javascript</span><br>
-        <img height="64px" src="![image](https://github.com/dunzolo/dunzolo/assets/112269790/b688aca4-90ac-427d-a47f-0a9bf58e6b71)">
+      <td align="center">
+        <h3>Javascript</h3>
+        <img height="64px" src="logos/languages/javascript.png">
       </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+      <td align="center">
+        <h3>𝗖𝗦𝗦𝟯</h3>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+      <td align="center">
+        <h3>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</h3>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
     </tr>
+  <tbody>
+  <thead>
+    <tr valign="top">
+      <th colspan="4"><span>LANGUAGES</span></th>
+    </tr>
+  </thead>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
@@ -81,7 +83,7 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> !-->
 
 <table align="center"><tr><td valign="top" width="350">
 <h3 align="center">Backend Development</h3>
