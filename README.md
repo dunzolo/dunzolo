@@ -24,37 +24,37 @@
     <td valign="top">
       <h3 align="center">Programming Languages</h3>
       <p align="center"> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript"><img width="64px" height="64px" src="logos/languages/javascript.png"/></a>
-	<a href="https://www.php.net/" title="PHP"><img src="logos/languages/php-icon.svg"/></a>
-	<a href="https://docs.oracle.com/en/java/" title="Java"><img src="logos/languages/java-icon.svg"/></a>	
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript"><img width="20%" height="20%" src="logos/languages/javascript.png"/></a>
+	<a href="https://www.php.net/" title="PHP"><img width="20%" height="20%" src="logos/languages/php-icon.svg"/></a>
+	<a href="https://docs.oracle.com/en/java/" title="Java"><img width="20%" height="20%" src="logos/languages/java-icon.svg"/></a>	
       </p>
       <h3 align="center">Frontend Development</h3>
       <p align="center">
-	<a href="https://getbootstrap.com/" title="Bootstrap"><img width="64px" height="64px" src="logos/framework-frontend/bootstrap.png"/></a>
-	<a href="https://sass-lang.com" title="SASS"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/></a>
-	<a href="https://vuejs.org/" title="Vue.js"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /></a>
+	<a href="https://getbootstrap.com/" title="Bootstrap"><img width="20%" height="20%" src="logos/framework-frontend/bootstrap.png"/></a>
+	<a href="https://sass-lang.com" title="SASS"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/></a>
+	<a href="https://vuejs.org/" title="Vue.js"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /></a>
       </p>
       <h3 align="center">Backend Development</h3>
       <p align="center"> 
-	<a href="https://www.yiiframework.com/doc/guide/2.0/en" title="Yii"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg"/></a>
-        <a href="https://spring.io/" title="Spring"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></a>
-        <a href="https://laravel.com/" title="Laravel"><img width="64px" height="64px" src="logos/framework-backend/LogosLaravel.png"/></a>
+	<a href="https://www.yiiframework.com/doc/guide/2.0/en" title="Yii"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg"/></a>
+        <a href="https://spring.io/" title="Spring"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></a>
+        <a href="https://laravel.com/" title="Laravel"><img width="20%" height="20%" src="logos/framework-backend/LogosLaravel.png"/></a>
       </p>
     </td>
     <td valign="top">
       <h3 align="center">Hosting & DevOps</h3>
       <p align="center"> 
-	<a href="https://www.docker.com/" title="Docker"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/></a>
-        <a href="https://www.netlify.com/" title="Netlify"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"/></a>
-        <a href="https://supabase.com/" title="Supabase"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"/></a>
-	<a href="https://www.mysql.com/" title="MySql"> <img src="logos/hosting-devops/mysql.png" width="64px" height="64px"/></a> 
+	<a href="https://www.docker.com/" title="Docker"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/></a>
+        <a href="https://www.netlify.com/" title="Netlify"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"/></a>
+        <a href="https://supabase.com/" title="Supabase"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"/></a>
+	<a href="https://www.mysql.com/" title="MySql"> <img src="logos/hosting-devops/mysql.png" width="20%" height="20%"/></a> 
       </p>
       <h3 align="center">Design</h3>
       <p align="center"> 
-	<a href="https://www.canva.com/" title="Canva"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="64" height="64"/></a>
-	<a href="https://www.gimp.org/" title="GIMP"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="64" height="64"/></a>
-	<a href="https://www.photoshop.com/en" title="Photoshop"> <img src="logos/design/photoshop.png" width="64" height="64"/></a>
-	<a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="64" height="64" /></a>
+	<a href="https://www.canva.com/" title="Canva"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="20%" height="20%"/></a>
+	<a href="https://www.gimp.org/" title="GIMP"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="20%" height="20%"/></a>
+	<a href="https://www.photoshop.com/en" title="Photoshop"> <img src="logos/design/photoshop.png" width="20%" height="20%"/></a>
+	<a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20%" height="20%" /></a>
       </p>
       <!--<h3 align="center">Grafichs</h3>
       <p align="center">
