@@ -19,12 +19,71 @@
 <br />
 
 ## 💻 Skills 
-### Tabella Formattata
-
-Puoi visualizzare la tabella formattata qui:
-
-<iframe src="table.html" width="100%"></iframe>
-
+<table style="text-align: center;">
+  <thead>
+    <tr valign="top">
+      <th colspan="4"><span>LANGUAGES</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="top">
+      <td>
+        <h3>Javascript</h3>
+        <img height="64px" src="logos/languages/javascript.png">
+      </td>
+      <td>
+        <h3>𝗖𝗦𝗦𝟯</h3>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td>
+        <h3>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</h3>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+    </tr>
+  <tbody>
+  <thead>
+    <tr valign="top">
+      <th colspan="4"><span>LANGUAGES</span></th>
+    </tr>
+  </thead>
+    <tr valign="top">
+      <td width="25%">
+        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+      </td>
+      <td width="25%">
+        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+      </td>
+      <td width="25%">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%">
+        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+      </td>
+      <td width="25%">
+        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="25%">
+        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%">
+        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 <table align="center"><tr><td valign="top" width="350">
 <h3 align="center">Backend Development</h3>
 <p align="center"> 
