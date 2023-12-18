@@ -56,6 +56,10 @@
 	<a href="https://www.photoshop.com/en" title="Photoshop"> <img src="logos/design/photoshop.png" width="20%" height="20%"/></a>
 	<a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20%" height="20%" /></a>
       </p>
+      <h3 align="center">Stats</h3>
+      <p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="100%" alt="dunzolo" />
+      </p>
       <!--<h3 align="center">Grafichs</h3>
       <p align="center">
 	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
