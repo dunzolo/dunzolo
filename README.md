@@ -21,7 +21,7 @@
 ## 💻 Skills 
 <table align="center">
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3 align="center">Programming Languages</h3>
       <p align="center"> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript"><img width="20%" height="20%" src="logos/languages/javascript.png"/></a>
@@ -41,7 +41,7 @@
         <a href="https://laravel.com/" title="Laravel"><img width="20%" height="20%" src="logos/framework-backend/LogosLaravel.png"/></a>
       </p>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3 align="center">Hosting & DevOps</h3>
       <p align="center"> 
 	<a href="https://www.docker.com/" title="Docker"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/></a>
