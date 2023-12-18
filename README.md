@@ -19,121 +19,53 @@
 <br />
 
 ## 💻 Skills 
-<table style="text-align: center;">
-  <thead>
-    <tr valign="top">
-      <th colspan="4"><span>LANGUAGES</span></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr valign="top">
-      <td>
-        <h3>Javascript</h3>
-        <img height="64px" src="logos/languages/javascript.png">
-      </td>
-      <td>
-        <h3>𝗖𝗦𝗦𝟯</h3>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td>
-        <h3>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</h3>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-  <tbody>
-  <thead>
-    <tr valign="top">
-      <th colspan="4"><span>LANGUAGES</span></th>
-    </tr>
-  </thead>
-    <tr valign="top">
-      <td width="25%">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="25%">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
-    </tr>
-  </tbody>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <h3 align="center">Programming Languages</h3>
+      <p align="center"> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript"><img width="64px" height="64px" src="logos/languages/javascript.png"/></a>
+	<a href="https://www.php.net/" title="PHP"><img src="logos/languages/php-icon.svg"/></a>
+	<a href="https://docs.oracle.com/en/java/" title="Java"><img src="logos/languages/java-icon.svg"/></a>	
+      </p>
+      <h3 align="center">Frontend Development</h3>
+      <p align="center">
+	<a href="https://getbootstrap.com/" title="Bootstrap"><img width="64px" height="64px" src="logos/framework-frontend/bootstrap.png"/></a>
+	<a href="https://sass-lang.com" title="SASS"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/></a>
+	<a href="https://vuejs.org/" title="Vue.js"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /></a>
+      </p>
+      <h3 align="center">Backend Development</h3>
+      <p align="center"> 
+	<a href="https://www.yiiframework.com/doc/guide/2.0/en" title="Yii"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg"/></a>
+        <a href="https://spring.io/" title="Spring"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></a>
+        <a href="https://laravel.com/" title="Laravel"><img width="64px" height="64px" src="logos/framework-backend/LogosLaravel.png"/></a>
+      </p>
+    </td>
+    <td valign="top">
+      <h3 align="center">Hosting & DevOps</h3>
+      <p align="center"> 
+	<a href="https://www.docker.com/" title="Docker"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/></a>
+        <a href="https://www.netlify.com/" title="Netlify"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"/></a>
+        <a href="https://supabase.com/" title="Supabase"><img width="64px" height="64px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"/></a>
+	<a href="https://www.mysql.com/" title="MySql"> <img src="logos/hosting-devops/mysql.png" width="64px" height="64px"/></a> 
+      </p>
+      <h3 align="center">Design</h3>
+      <p align="center"> 
+	<a href="https://www.canva.com/" title="Canva"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="64" height="64"/></a>
+	<a href="https://www.gimp.org/" title="GIMP"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="64" height="64"/></a>
+	<a href="https://www.photoshop.com/en" title="Photoshop"> <img src="logos/design/photoshop.png" width="64" height="64"/></a>
+	<a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="64" height="64" /></a>
+      </p>
+      <!--<h3 align="center">Grafichs</h3>
+      <p align="center">
+	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+	<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+	<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+      </p>-->
+    </td>
+  </tr>
 </table>
-<table align="center"><tr><td valign="top" width="350">
-<h3 align="center">Backend Development</h3>
-<p align="center"> 
-<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
-<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring"/></a>
-<!-- <a href="https://https://www.yiiframework.com/"><img src="https://skillicons.dev/icons?i=yii"/></a> -->
-<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel"/></a>
-
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="https://skillicons.dev/icons?i=javascript"/></a>
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php"/></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java"/></a>
-</p>
-
-<h3 align="center">IDEs/Editor & Testing</h3>
-<p align="center"> 
-<a><img src="https://skillicons.dev/icons?i=atom"/></a> 
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode"/></a> 
-<a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman"/></a> 
-<a href="https://www.phpmyadmin.net/"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="40" height="40" alt="Vite" /></a>
-<a href="https://eclipseide.org/"><img src="https://skillicons.dev/icons?i=eclipse"/></a>
-<a href="https://eclipseide.org/"><img src="https://user-images.githubusercontent.com/112269790/245492831-81f1069b-708b-4b16-a4c5-c4691e7eede7.png" width="40" height="40"</a></p>
-
-</td><td valign="top" width="350">
-<h3 align="center">Frontend Development</h3>
-<p align="center"> 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html"/></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css"/></a>
-<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap"/></a>
-<a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass"/></a>
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue"/></a>
-  
-<h3 align="center">Other & DB</h3>
-<p align="center"> 
-<a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" /></a>
-<a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Grafichs</h3>
-<p align="center">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-</p>
- 
-</td></tr></table>
 
 ## 📝 Stats
 <p align="center">
