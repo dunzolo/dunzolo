@@ -25,6 +25,7 @@
 
 ## 💻 Frontend Development
 <a href="#"><img src="/figma/frameworks/vue.svg" alt="example badge"></a>
+<a href="#"><img src="/figma/frameworks/bootstrap.svg" alt="example badge"></a>
 
 <table align="center">
   <tr>
