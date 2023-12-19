@@ -20,8 +20,11 @@
 
 ## 💻 Skills
 <a href="#">
-  <img src="/figma/badges/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>  
+  <img src="/figma/badges/dev/languages/java.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+  <img src="/figma/js.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a> 
 
 <table align="center">
   <tr>
