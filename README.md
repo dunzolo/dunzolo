@@ -18,10 +18,13 @@
 
 <br />
 
-## 💻 Skills
-<a href="#"><img src="/figma/badges/dev/languages/java.svg" alt="example badge"></a>
+## 💻 Programming Languages
 <a href="#"><img src="/figma/js.svg" alt="example badge"></a>
 <a href="#"><img src="/figma/php.svg" alt="example badge"></a>
+<a href="#"><img src="/figma/badges/dev/languages/java.svg" alt="example badge"></a>
+
+## 💻 Frontend Development
+<a href="#"><img src="/figma/frameworks/vue.svg" alt="example badge"></a>
 
 <table align="center">
   <tr>
