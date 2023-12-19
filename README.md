@@ -18,7 +18,11 @@
 
 <br />
 
-## 💻 Skills 
+## 💻 Skills
+<a href="#">
+  <img src="/figma/badges/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
+
 <table align="center">
   <tr>
     <td valign="top" width="50%">
