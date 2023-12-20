@@ -39,19 +39,11 @@
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/mysql.svg" alt="mysql"></a>
 <a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/supabase.svg" alt="supabase"></a>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">Design</h3>
-      <p align="center"> 
-	<a href="https://www.canva.com/" title="Canva"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="20%" height="20%"/></a>
-	<a href="https://www.gimp.org/" title="GIMP"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="20%" height="20%"/></a>
-	<a href="https://www.photoshop.com/en" title="Photoshop"> <img src="logos/design/photoshop.png" width="20%" height="20%"/></a>
-	<a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20%" height="20%" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+## 💻 Design
+<a href="https://www.canva.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/canva.svg" alt="canva"></a>
+<a href="https://www.gimp.org/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/gimp.svg" alt="gimp"></a>
+<a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/photoshop.svg" alt="photoshop"></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/figma.svg" alt="figma"></a>
 
 ## 📝 Stats
 <p align="center">
