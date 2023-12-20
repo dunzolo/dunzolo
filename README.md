@@ -34,39 +34,14 @@
 <a href="https://spring.io/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-backend/spring.svg" alt="spring"></a>
 
 ## 💻 Hosting & DevOps
-<a href="#"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/docker.svg" alt="docker"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/netlify.svg" alt="netlify"></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/docker.svg" alt="docker"></a>
+<a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/netlify.svg" alt="netlify"></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/mysql.svg" alt="mysql"></a>
+<a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/supabase.svg" alt="supabase"></a>
 
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">Programming Languages</h3>
-      <p align="center"> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript"><img width="20%" height="20%" src="logos/languages/javascript.png"/></a>
-	<a href="https://www.php.net/" title="PHP"><img width="20%" height="20%" src="logos/languages/php-icon.svg"/></a>
-	<a href="https://docs.oracle.com/en/java/" title="Java"><img width="20%" height="20%" src="logos/languages/java-icon.svg"/></a>	
-      </p>
-      <h3 align="center">Frontend Development</h3>
-      <p align="center">
-	<a href="https://getbootstrap.com/" title="Bootstrap"><img width="20%" height="20%" src="logos/framework-frontend/bootstrap.png"/></a>
-	<a href="https://sass-lang.com" title="SASS"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/></a>
-	<a href="https://vuejs.org/" title="Vue.js"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" /></a>
-      </p>
-      <h3 align="center">Backend Development</h3>
-      <p align="center"> 
-	<a href="https://www.yiiframework.com/doc/guide/2.0/en" title="Yii"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg"/></a>
-        <a href="https://spring.io/" title="Spring"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></a>
-        <a href="https://laravel.com/" title="Laravel"><img width="20%" height="20%" src="logos/framework-backend/LogosLaravel.png"/></a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">Hosting & DevOps</h3>
-      <p align="center"> 
-	<a href="https://www.docker.com/" title="Docker"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/></a>
-        <a href="https://www.netlify.com/" title="Netlify"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"/></a>
-        <a href="https://supabase.com/" title="Supabase"><img width="20%" height="20%" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"/></a>
-	<a href="https://www.mysql.com/" title="MySql"> <img src="logos/hosting-devops/mysql.png" width="20%" height="20%"/></a> 
-      </p>
       <h3 align="center">Design</h3>
       <p align="center"> 
 	<a href="https://www.canva.com/" title="Canva"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="20%" height="20%"/></a>
@@ -74,17 +49,6 @@
 	<a href="https://www.photoshop.com/en" title="Photoshop"> <img src="logos/design/photoshop.png" width="20%" height="20%"/></a>
 	<a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20%" height="20%" /></a>
       </p>
-      <!--<h3 align="center">Stats</h3>
-      <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="100%" alt="dunzolo" />
-      </p>-->
-      <!--<h3 align="center">Grafichs</h3>
-      <p align="center">
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-	<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-	<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-      </p>-->
     </td>
   </tr>
 </table>
