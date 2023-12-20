@@ -18,28 +18,28 @@
 
 <br />
 
-### 💻 Programming Languages
+### 🌍 Programming Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/js.svg" alt="jascript"></a>
 <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/php.svg" alt="php"></a>
 <a href="https://docs.oracle.com/en/java/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/java.svg" alt="java"></a>
 
-## 💻 Frontend Development
+### 💻 Frontend Development
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-frontend/vue.svg" alt="vuejs"></a>
 <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-frontend/bootstrap.svg" alt="bootstrap"></a>
 <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-frontend/sass.svg" alt="sass"></a>
 
-## 💻 Backend Development
+### 💾 Backend Development
 <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-backend/laravel.svg" alt="laravel"></a>
 <a href="https://www.yiiframework.com/doc/guide/2.0/en"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-backend/yii.svg" alt="yii"></a>
 <a href="https://spring.io/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-backend/spring.svg" alt="spring"></a>
 
-## 💻 Hosting & DevOps
+### 📤 Hosting & DevOps
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/docker.svg" alt="docker"></a>
 <a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/netlify.svg" alt="netlify"></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/mysql.svg" alt="mysql"></a>
 <a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/supabase.svg" alt="supabase"></a>
 
-## 💻 Design
+### 🎨 Design
 <a href="https://www.canva.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/canva.svg" alt="canva"></a>
 <a href="https://www.gimp.org/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/gimp.svg" alt="gimp"></a>
 <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/photoshop.svg" alt="photoshop"></a>
