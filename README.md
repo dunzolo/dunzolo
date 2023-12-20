@@ -35,7 +35,7 @@
 
 ## 💻 Hosting & DevOps
 <a href="#"><img src="/figma/devops/docker.svg" alt="docker"></a>
-<a href="#"><img src="/figma/devops/netlify.svg" alt="netlify"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/netlify.svg" alt="netlify"></a>
 
 <table align="center">
   <tr>
