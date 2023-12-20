@@ -19,22 +19,22 @@
 <br />
 
 ## 💻 Programming Languages
-<a href="#"><img src="/figma/languages/js.svg" alt="jascript"></a>
-<a href="#"><img src="/figma/languages/php.svg" alt="php"></a>
-<a href="#"><img src="/figma/languages/java.svg" alt="java"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/js.svg" alt="jascript"></a>
+<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/php.svg" alt="php"></a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/java.svg" alt="java"></a>
 
 ## 💻 Frontend Development
-<a href="#"><img src="/figma/frameworks-frontend/vue.svg" alt="vuejs"></a>
-<a href="#"><img src="/figma/frameworks-frontend/bootstrap.svg" alt="bootstrap"></a>
-<a href="#"><img src="/figma/frameworks-frontend/sass.svg" alt="sass"></a>
+<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-frontend/vue.svg" alt="vuejs"></a>
+<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-frontend/bootstrap.svg" alt="bootstrap"></a>
+<a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-frontend/sass.svg" alt="sass"></a>
 
 ## 💻 Backend Development
-<a href="#"><img src="/figma/frameworks-backend/laravel.svg" alt="laravel"></a>
-<a href="#"><img src="/figma/frameworks-backend/yii.svg" alt="yii"></a>
-<a href="#"><img src="/figma/frameworks-backend/spring.svg" alt="spring"></a>
+<a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-backend/laravel.svg" alt="laravel"></a>
+<a href="https://www.yiiframework.com/doc/guide/2.0/en"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-backend/yii.svg" alt="yii"></a>
+<a href="https://spring.io/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-backend/spring.svg" alt="spring"></a>
 
 ## 💻 Hosting & DevOps
-<a href="#"><img src="/figma/devops/docker.svg" alt="docker"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/docker.svg" alt="docker"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/netlify.svg" alt="netlify"></a>
 
 <table align="center">
