@@ -19,13 +19,23 @@
 <br />
 
 ## 💻 Programming Languages
-<a href="#"><img src="/figma/js.svg" alt="example badge"></a>
-<a href="#"><img src="/figma/php.svg" alt="example badge"></a>
-<a href="#"><img src="/figma/badges/dev/languages/java.svg" alt="example badge"></a>
+<a href="#"><img src="/figma/languages/js.svg" alt="jascript"></a>
+<a href="#"><img src="/figma/languages/php.svg" alt="php"></a>
+<a href="#"><img src="/figma/languages/java.svg" alt="java"></a>
 
 ## 💻 Frontend Development
-<a href="#"><img src="/figma/frameworks/vue.svg" alt="example badge"></a>
-<a href="#"><img src="/figma/frameworks/bootstrap.svg" alt="example badge"></a>
+<a href="#"><img src="/figma/frameworks-frontend/vue.svg" alt="vuejs"></a>
+<a href="#"><img src="/figma/frameworks-frontend/bootstrap.svg" alt="bootstrap"></a>
+<a href="#"><img src="/figma/frameworks-frontend/sass.svg" alt="sass"></a>
+
+## 💻 Backend Development
+<a href="#"><img src="/figma/frameworks-backend/laravel.svg" alt="laravel"></a>
+<a href="#"><img src="/figma/frameworks-backend/yii.svg" alt="yii"></a>
+<a href="#"><img src="/figma/frameworks-backend/spring.svg" alt="spring"></a>
+
+## 💻 Hosting & DevOps
+<a href="#"><img src="/figma/devops/docker.svg" alt="docker"></a>
+<a href="#"><img src="/figma/devops/netlify.svg" alt="netlify"></a>
 
 <table align="center">
   <tr>
