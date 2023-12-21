@@ -9,13 +9,11 @@
 
 <br />
 
-- 🌱 I’m currently learning Java online with [Experis Academy](https://www.experisacademy.it/)
+- 🌱 I’m currently working on a web portal with framework <strong>Yii</strong>
 
-- 🎯 Goals 2023: I did a course with [Boolean Careers](https://boolean.careers/) and this is my [credential](https://www.credential.net/8ad6f264-1529-47f0-941b-cca2c4099af5#gs.wg8vw8)
+- 🎯 Goals: I would like to study [React](https://react.dev/) and [Flutter](https://flutter.dev/)
 
-- 🔭 Future Goals: learn more technologies to grow more and more
-
-- 📖 Other about me: i'm a football coach with UEFA Grassroots C Licence
+- 📖 Other about me: I'm a football coach with UEFA Grassroots C Licence
 
 <br />
 
