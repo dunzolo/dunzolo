@@ -3,9 +3,8 @@
 </p>
 <h2 align="center">Welcome on my GitHub profile!</h2>
 <img align='right' src="pics/laptop_wave.png" width="30%" max-width="100%">
-<h3>Hi there! 👋</h3> 
-<p>I'm <strong>Davide</strong>, a junior full stack web developer</p>
-
+<h3>Hi there! 👋 </h3>
+<h3>I'm <strong>Davide</strong>, a junior full stack web developer</h3> 
 <!-- - 🌱 I’m currently working on web development technologies -->
 
 - 🌱 I’m currently learning Java online with [Experis Academy](https://www.experisacademy.it/)
