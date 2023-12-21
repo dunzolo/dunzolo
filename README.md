@@ -47,8 +47,8 @@
 
 ## 📝 Stats
 <p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" height="150" alt="dunzolo" />
-<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" height="150" alt="dunzolo" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="38%" alt="dunzolo" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" width="50%" alt="dunzolo" />
 </p>
 
 
