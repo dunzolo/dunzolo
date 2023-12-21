@@ -46,11 +46,12 @@
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/figma.svg" alt="figma"></a>
 
 ## 📝 Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="225" alt="dunzolo" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" width="296" alt="dunzolo" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunzolo&" width="315" alt="dunzolo"/>
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" height="150" alt="dunzolo" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" height="150" alt="dunzolo" />
 </p>
+
+
 
 ## 🏆 Profile Trophy
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dunzolo&theme=juicyfresh&no-bg=true&no-frame=true&column=5" alt="dunzolo"/></a></p>
