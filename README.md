@@ -3,8 +3,9 @@
 <h1 align="center">Welcome on my profile!</h1>
 
 <img align='right' src="pics/laptop_wave.png" width="30%" max-width="100%">
-<h3>Hi there! 👋 I'm Davide</h3>
-<h3>I'm a junior full stack web developer</h3> 
+
+### Hi there! 👋 I'm Davide</h3>
+### I'm a junior full stack web developer</h3> 
 
 <br />
 
@@ -45,7 +46,14 @@
 <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/photoshop.svg" alt="photoshop"></a>
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/figma.svg" alt="figma"></a>
 
-## 📝 Stats
+<hr/>
+
+### 🎨 Certification
+<img scr="https://lwfiles.mycourse.app/6368e5089f20781a7e4f1805-public/2c162927114072f9ebbf04043a593fb9.png" />
+
+<hr/>
+
+### 📝 Stats
 <p align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dunzolo&show_icons=true&locale=en&layout=compact" width="38%" alt="dunzolo" />
 <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=dunzolo&show_icons=true&locale=en" width="50%" alt="dunzolo" />
@@ -53,7 +61,7 @@
 
 
 
-## 🏆 Profile Trophy
+### 🏆 Profile Trophy
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dunzolo&theme=juicyfresh&no-bg=true&no-frame=true&column=5" alt="dunzolo"/></a></p>
 
 <p align="center"> 🙏 Thanks for visiting my account 🙏</p>
