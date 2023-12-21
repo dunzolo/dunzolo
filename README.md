@@ -9,6 +9,8 @@
 
 <br />
 
+🎂 Age:28 🇮🇹 Nationality: italian
+
 - 🌱 I’m currently working on a web portal with framework <strong>Yii</strong>
 
 - 🎯 Goals: I would like to study [React](https://react.dev/) and [Flutter](https://flutter.dev/)
