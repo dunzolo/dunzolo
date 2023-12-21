@@ -9,7 +9,7 @@
 
 <br />
 
-🎂 Age:28 🇮🇹 Nationality: italian
+🎂 Age:28  🇮🇹 Nationality: italian
 
 - 🌱 I’m currently working on a web portal with framework <strong>Yii</strong>
 
