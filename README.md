@@ -47,7 +47,7 @@
 <hr/>
 
 ### 🎨 Certification
-<a href="https://www.credential.net/8ad6f264-1529-47f0-941b-cca2c4099af5#gs.1x6kxb"><img width="200" src="pics/boolean_logo.png"></a>
+<a href="https://www.credential.net/8ad6f264-1529-47f0-941b-cca2c4099af5#gs.1x6kxb"><img width="150" src="pics/boolean_logo.png"></a>
 
 <hr/>
 
