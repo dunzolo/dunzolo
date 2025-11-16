@@ -15,7 +15,6 @@
 ### 🌍 Programming Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/js.svg" alt="jascript"></a>
 <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/php.svg" alt="php"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/languages/java.svg" alt="java"></a>
 
 ### 💻 Frontend Development
 <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/frameworks-frontend/vue.svg" alt="vuejs"></a>
