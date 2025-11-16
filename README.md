@@ -2,18 +2,11 @@
 
 <h1 align="center">Welcome on my profile!</h1>
 
-<img align='right' src="pics/laptop_wave.png" width="30%" max-width="100%">
-
-### Hi there! 👋 I'm Davide</h3>
-### I'm a junior full stack web developer</h3> 
+### Hi there! 👋 I'm Davide, I'm a web developer</h3> 
 
 <br />
 
 🎂 Age:28  🇮🇹 Nationality: italian
-
-- 🌱 I’m currently working with framework <strong>Yii</strong>
-
-- 🎯 Goals: I would like to study [React](https://react.dev/) and [Flutter](https://flutter.dev/)
 
 - 📖 Other about me: I'm a football coach with UEFA Grassroots C Licence
 
