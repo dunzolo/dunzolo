@@ -35,8 +35,6 @@
 
 ### 🎨 Design
 <a href="https://www.canva.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/canva.svg" alt="canva"></a>
-<a href="https://www.gimp.org/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/gimp.svg" alt="gimp"></a>
-<a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/photoshop.svg" alt="photoshop"></a>
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/design/figma.svg" alt="figma"></a>
 
 <hr/>
