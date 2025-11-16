@@ -24,6 +24,7 @@
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/docker.svg" alt="docker"></a>
 <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/vercel.svg" alt="vercel"></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/mysql.svg" alt="mysql"></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/postgresql.svg" alt="postgresql"></a>
 <a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/supabase.svg" alt="supabase"></a>
 <a href="https://cloud.laravel.com/"><img src="https://raw.githubusercontent.com/dunzolo/badges/main/devops/laravelcloud.svg" alt="laravelcloud"></a>
 
